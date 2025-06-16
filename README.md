@@ -26,4 +26,4 @@ I’m currently exploring career paths in **software engineering**, **data scien
 - **Email:** meleazar@nd.edu
 - **GitHub:** [MatthewEleazar](https://github.com/MatthewEleazar)
 
-Thanks for visiting my profile, and feel free to check out my repositories! 😊
+Thanks for visiting my profile, and feel free to check out my repositories!
