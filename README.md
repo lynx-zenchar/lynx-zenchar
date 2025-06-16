@@ -1,4 +1,4 @@
-#I'm Matthew Eleazar!
+# I'm Matthew Eleazar!
 
 ### About Me
 I'm a senior **Computer Science** student at the **University of Notre Dame**, where I'm also pursuing a minor in **Philosophy**. My studies and projects have equipped me with a versatile skill set that I’m excited to expand further, with an eye on blending technology with insights from healthcare, music, and human thought.
