@@ -22,7 +22,7 @@ Some of the highlights from my GitHub repos:
 I’m currently exploring career paths in **software engineering**, **data science**, **UI/UX design**, and **healthcare tech**. I’m also interested in opportunities that bridge tech and philosophy, particularly in ethics, AI, and human-centered design.
 
 ### Get in Touch
-- **LinkedIn:** [Your LinkedIn Profile](#)
+- **LinkedIn:** [[matthew-eleazar-nd]](https://www.linkedin.com/in/matthew-eleazar-nd/)(#)
 - **Email:** meleazar@nd.edu
 - **GitHub:** [MatthewEleazar](https://github.com/MatthewEleazar)
 
