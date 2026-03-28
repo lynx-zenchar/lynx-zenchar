@@ -1,7 +1,7 @@
 # I'm Matthew Eleazar!
 
 ### About Me
-I'm an **M.S. candidate in Data Science & AI at the University of Dallas** and a **Computer Science graduate from the University of Notre Dame** (Minor in Philosophy). My work sits at the intersection of **data, machine learning, and software engineering**, with a focus on building systems that turn complex data into clear, actionable insights.
+I'm an **M.S. candidate in Data Science & AI at the University of Dallas** and a **Computer Science graduate from the University of Notre Dame** (Minor in Philosophy). My work sits at the intersection of **data science, machine learning, and software engineering**, with a focus on building systems that turn complex data into clear, actionable insights.
 
 ---
 
