@@ -1,29 +1,40 @@
 # I'm Matthew Eleazar!
 
 ### About Me
-I'm a senior **Computer Science** student at the **University of Notre Dame**, where I'm also pursuing a minor in **Philosophy**. My studies and projects have equipped me with a versatile skill set that I’m excited to expand further, with an eye on blending technology with insights from healthcare, music, and human thought.
+I'm an **M.S. candidate in Data Science & AI at the University of Dallas** and a **Computer Science graduate from the University of Notre Dame** (Minor in Philosophy). My work sits at the intersection of **data, machine learning, and software engineering**, with a focus on building systems that turn complex data into clear, actionable insights.
+
+---
 
 ### Technical Skills & Interests
-- **Frontend Development:** HTML, CSS, JavaScript, React
-- **Backend Development:** Node.js, Express, RESTful APIs, SQL
-- **Data Science & Analytics:** Python, Pandas, NumPy, Data Visualization, Machine Learning
-- **Healthcare:** Clinical experience with a growing interest in how tech can transform healthcare systems and patient experiences
-- **Philosophy & Psychology:** Applying ethical perspectives and cognitive insights to technology
+- **Programming:** Python, SQL, R, JavaScript, Java, C/C++, Bash  
+- **Data Science & ML:** Pandas, scikit-learn, TensorFlow, PyTorch, BigQuery, Tableau  
+- **Software Development:** React, Node.js, Flask, Django, REST APIs  
+- **Databases:** MySQL, SQLite  
+- **Interests:** Machine Learning, Data Engineering, Analytics, Healthcare Tech  
+
+---
+
+### Experience Highlights
+- **Technical Analytics Assistant (University of Dallas):** Built ETL pipelines and dashboards analyzing 10,000+ data points to support academic decision-making  
+- **Research Assistant (Computer Vision Labs):** Worked with deep learning models for medical imaging and video-based inference systems  
+- **Technical Validation Intern (IDEA Center):** Analyzed large-scale datasets in Python to evaluate energy-efficient technologies  
+- **Teaching Assistant (Algorithms):** Mentored students in algorithms, proofs, and complexity analysis  
+
+---
 
 ### Creative Pursuits
-Alongside tech, I’m passionate about **music and audio engineering**. Whether I’m behind an instrument or mixing tracks, I enjoy exploring the art and science of sound. This creative background influences my technical work, especially in user experience and design.
+Outside of tech, I’m deeply interested in **music production and performance**. I’ve recorded and produced original tracks and enjoy exploring how creativity and engineering intersect—especially in design and user experience.
 
-### Projects
-Some of the highlights from my GitHub repos:
-- **BuiltBuff** - A workout tracking web app designed to help users stay on top of their fitness goals.
-- **The Pensive Matthew** - A personal blog website.
+---
 
 ### Future Goals
-I’m currently exploring career paths in **software engineering**, **data science**, **UI/UX design**, and **healthcare tech**. I’m also interested in opportunities that bridge tech and philosophy, particularly in ethics, AI, and human-centered design.
+I’m pursuing roles in **data science, machine learning, and software engineering**, especially in **healthcare and impact-driven industries**. I’m interested in building systems that are both technically rigorous and meaningful in real-world applications.
+
+---
 
 ### Get in Touch
-- **LinkedIn:** [[matthew-eleazar-nd]](https://www.linkedin.com/in/matthew-eleazar-nd/)(#)
-- **Email:** meleazar@nd.edu
-- **GitHub:** [MatthewEleazar](https://github.com/MatthewEleazar)
+- **Portfolio:** https://matteleazar.tech  
+- **LinkedIn:** https://www.linkedin.com/in/matthew-eleazar-nd/  
+- **Email:** matteleazar@gmail.com  
 
-Thanks for visiting my profile, and feel free to check out my repositories!
+---
